@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [customer-support-ai-mcp](https://github.com/CSOAI-ORG/customer-support-ai-mcp) - MEOK AI Labs — customer support MCP Server
