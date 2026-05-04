@@ -2265,7 +2265,8 @@ Interact with Git repositories and version control platforms. Enables repository
 - [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime) - MCP server providing date and time functions in various formats
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
 - [SPL-BGU/PlanningCopilot](https://github.com/SPL-BGU/PlanningCopilot) [![planning-copilot MCP server](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot/badges/score.svg)](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot) 🐍🏠 - A tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.
-- [yyyhy/nash-arena](https://github.com/yyyhy/nash-arena) [![yyyhy/nash-arena MCP server](https://glama.ai/mcp/servers/yyyhy/nash-arena/badges/score.svg)](https://glama.ai/mcp/servers/yyyhy/nash-arena) 🐍 ☁️ - A Chess and Card Game Arena For LLM, Agents can battle in game by mcp
+- [yyyhy/nash-arena](https://github.com/yyyhy/nash-arena) [![yyyhy/nash-arena MCP server](https://glama.ai/mcp/servers/yyyhy/nash-arena/badges/score.svg)](https://glama.ai/mcp/servers/yyyhy/nash-arena) 🐍 ☁️ - A Chess and Card Game Arena For LLM, Agents can battle in game by mcp- [meok-governance-engine-mcp](https://github.com/CSOAI-ORG/meok-governance-engine-mcp) — AI-powered meok governance engine MCP server for agents. Supports full governance report, which fram
+
 ## Frameworks
 
 > [!NOTE]
