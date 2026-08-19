@@ -3820,3 +3820,18 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+
+## CSOAI/MEOK Labs MCP Servers
+
+*531 MIT-licensed MCP servers, the largest open-source MCP organization on GitHub. 97-component Ed25519-signed OSCAL Layer-0 proof. 479 deploy-ready.*
+
+- **[eu-ai-act-compliance-mcp](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp)** — 18 tools, 410 verbatim articles from EUR-Lex.
+- **[regulatory-webhook-mcp](https://github.com/CSOAI-ORG/regulatory-webhook-mcp)** — Push-notify EU AI Act/NIS2/DORA.
+- **[oscal-generator-mcp](https://github.com/CSOAI-ORG/oscal-generator-mcp)** — NIST OSCAL + Ed25519 signer.
+- **[csoai-governance-crosswalk-mcp](https://github.com/CSOAI-ORG/csoai-governance-crosswalk-mcp)** — 13 frameworks × 52 articles.
+- **[solvency-ii-mcp](https://github.com/CSOAI-ORG/solvency-ii-mcp)** — First OSS Solvency II implementation.
+- **[mica-crypto-mcp](https://github.com/CSOAI-ORG/mica-crypto-mcp)** — EU MiCA (Reg 2023/1114).
+- **[cra-compliance-mcp](https://github.com/CSOAI-ORG/cra-compliance-mcp)** — EU Cyber Resilience Act.
+- **[22 legacy bridges](https://github.com/orgs/CSOAI-ORG/repositories?q=bridge-mcp)** — COBOL · HL7/FHIR · SCADA · FIX · ISO 20022 · ACORD · SAP · Oracle · etc.
+
